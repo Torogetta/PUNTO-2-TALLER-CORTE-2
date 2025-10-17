@@ -1,0 +1,5 @@
+geometria\model\Rectangulo.class
+edu\uao\geometriarectangulo\MainRect.class
+geometria\model\Punto.class
+geometria\controller\RectController.class
+geometria\view\ConsolaView.class
